@@ -27,5 +27,5 @@ cd an0nDelete
 ```
 ### Usage
 ```bash
-python main.py [-h] [-f FILE] [-d DIR] [-p PASSES]
+python an0nDelete.py [-h] [-f FILE] [-d DIR] [-p PASSES]
 ```
