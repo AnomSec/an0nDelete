@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57de75d9-05c9-44ec-a878-6edf91c194e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/An0nDelete.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/An0nMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/an0nDelete.py" afterDir="false" />
+    <list default="true" id="57de75d9-05c9-44ec-a878-6edf91c194e9" name="Changes" comment="Secure File/Directory delete.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nestyk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnomSec/an0nDelete.git",
+    "accountId": "6c5b53bf-8720-40a3-9763-76a57f88175d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -60,6 +66,27 @@
       <option name="presentableId" value="Default" />
       <updated>1759061847834</updated>
     </task>
+    <task id="LOCAL-00001" summary="Secure File/Directory delete.">
+      <option name="closed" value="true" />
+      <created>1759907543453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759907543453</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Secure File/Directory delete.">
+      <option name="closed" value="true" />
+      <created>1759907590747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759907590747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Secure File/Directory delete." />
+    <option name="LAST_COMMIT_MESSAGE" value="Secure File/Directory delete." />
   </component>
 </project>
