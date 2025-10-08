@@ -2,7 +2,6 @@ import sys
 from argparse import ArgumentParser
 from An0nMethods import *
 
-
 anon = An0n()
 parser = ArgumentParser()
 parser.add_argument("-f", "--file")
