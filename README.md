@@ -24,3 +24,8 @@ A secure file and directory deletion tool that overwrites data multiple times be
 ```bash
 git clone https://github.com/AnomSec/an0nDelete.git
 cd an0nDelete
+```
+### Usage
+```bash
+python main.py [-h] [-f FILE] [-d DIR] [-p PASSES]
+```
