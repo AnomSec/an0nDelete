@@ -17,6 +17,7 @@ dir = args.dir
 passes = args.passes
 
 
+
 if dir:
     if anon.isDir(dir):
         anon.deleteDir(dir, passes) if passes is not None else anon.deleteDir(dir)

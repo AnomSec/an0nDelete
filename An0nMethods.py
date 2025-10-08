@@ -18,6 +18,7 @@ class An0n:
             print(f" - {pass_num + 1}/{passes} completed.")
         os.remove(path)
 
+
     def deleteDir(self,path,passes=3):
         directory = Path(path)
         for item in directory.glob("*"):
