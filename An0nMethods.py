@@ -1,5 +1,6 @@
 from pathlib import Path
 import os
+
 class An0n:
     @staticmethod
     def isFile(path: str) -> bool:
