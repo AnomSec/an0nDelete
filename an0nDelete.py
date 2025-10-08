@@ -2,7 +2,6 @@
 from argparse import ArgumentParser
 from An0nMethods import *
 
-
 def main():
     anon = An0n()
     parser = ArgumentParser(description="Secure file and directory deletion tool")
