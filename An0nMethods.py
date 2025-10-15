@@ -1,5 +1,6 @@
 from pathlib import Path
 from os import rmdir, remove
+from os.path import getsize
 
 
 class An0n:
@@ -12,7 +13,7 @@ class An0n:
     @staticmethod
     def deleteFile(path: str, passes = 3):
         print(f"deleting {path}...")
-        file_size = os.path.getsize(path)
+        file_size = getsize(path)
         for pass_num in range(passes):
             random_data = os.urandom(file_size)
             with open(path, 'wb') as f:
