@@ -1,5 +1,5 @@
 from pathlib import Path
-import os
+from os import rmdir, remove
 
 
 class An0n:
@@ -18,11 +18,11 @@ class An0n:
             with open(path, 'wb') as f:
                 f.write(random_data)
             print(f" - {pass_num + 1}/{passes} completed.")
-        os.remove(path)
+        remove(path)
 
 
     def deleteDir(self,path,passes=3):
         directory = Path(path)
         for item in directory.glob("*"):
             self.deleteFile(str(item),passes)
-        os.rmdir(path)
+        rmdir(path)
